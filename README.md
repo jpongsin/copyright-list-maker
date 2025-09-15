@@ -1,8 +1,11 @@
 COPYRIGHT RENEWAL LIST CREATOR
+
 Jonathon Pongsin
+
 Updated 15 Sept 2025
 
 About
+
 This small program essentially makes a fixed number of titles
 that have been either renewed or not renewed.
 
