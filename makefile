@@ -1,8 +1,8 @@
 CC=g++
 CXXFLAGS=-std=c++11
 
-main: main.o compoundInfo.o movieInfo.o
-	$(CC) -o main main.o compoundInfo.o movieInfo.o
+CopyrightList: main.o compoundInfo.o movieInfo.o
+	$(CC) -o CopyrightList main.o compoundInfo.o movieInfo.o
 
 main.o: main.cpp
 	$(CC) -c ${CXXFLAGS} main.cpp
