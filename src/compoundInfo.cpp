@@ -2,7 +2,7 @@
 // Created by Jonathon Pongsin on 3/25/24.
 //
 
-#include "compoundInfo.h"
+#include "../include/compoundInfo.h"
 
 namespace copyrightInfo {
     compoundInfo::compoundInfo(){

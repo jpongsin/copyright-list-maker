@@ -1,5 +1,5 @@
 #include <iostream>
-#include "movieInfo.h"
+#include "../include/movieInfo.h"
 
 using namespace std;
 using namespace copyrightInfo;

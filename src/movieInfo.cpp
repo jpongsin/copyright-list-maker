@@ -5,7 +5,7 @@
 #include <iomanip>
 #include <string>
 
-#include "movieInfo.h"
+#include "../include/movieInfo.h"
 
 namespace copyrightInfo{
     movieInfo::movieInfo(){
